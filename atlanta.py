@@ -9,7 +9,7 @@ for x in range(1,B+1):
     if A == 2*(comp +larg)-4:
         achou = True
         break
-if achou:
+    if achou:
     print(larg,comp)
 else:
     print(-1,-1)
